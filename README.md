@@ -1,4 +1,3 @@
-# back-end
 ## 🚀 커밋 규칙 (Commit Convention)
 
 | **커밋 유형**      | **설명**                                                  |
@@ -16,6 +15,3 @@
 | `remove`          | 파일을 삭제하는 작업만 수행한 경우                        |
 | `!BREAKING CHANGE`| 커다란 API 변경의 경우                                    |
 | `!HOTFIX`         | 급하게 치명적인 버그를 고쳐야 하는 경우                   |
-
-<h1>👨‍💻 Role & Contribution</h1>
-<hr>
