@@ -6,7 +6,7 @@ import com.ultimate.mathfusion.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
-
+// 정보암호화하는 등 로직처리
 @RequiredArgsConstructor
 @Service
 public class UserService {

@@ -6,7 +6,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
-
+// 정보가져오는 역할
 @RequiredArgsConstructor
 @Service
 public class UserDetailService implements UserDetailsService {
